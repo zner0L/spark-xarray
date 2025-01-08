@@ -10,7 +10,7 @@ spark-xarray is an open source project and Python package that seeks to integrat
 
 spark-xarray was originally conceived during the Summer of 2017 as part of [PySpark for "Big" Atmospheric & Oceanic Data Analysis](https://ncar.github.io/PySpark4Climate/) - [A CISL/SIParCS Research Project](https://www2.cisl.ucar.edu/siparcs).
 
-It is currently maintained by [Anderson Banihirwe](https://github.com/andersy005).
+It is was maintained by [Anderson Banihirwe](https://github.com/andersy005) and is currently unmaintained. This fork fixes a bug in the multi file reader.
 
 Documentation is available at https://andersy005.github.io/spark-xarray/.
 ## Installation
